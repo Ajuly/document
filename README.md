@@ -1,2 +1,2 @@
 # document
-文档
+### es6
